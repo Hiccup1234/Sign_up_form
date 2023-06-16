@@ -1,4 +1,4 @@
-  <script>
+
     const pw = document.querySelector('#password');
     const pwC = document.querySelector('#passwordC');
     const firstname = document.querySelector('#firstname');
@@ -87,4 +87,3 @@
         pwCError.textContent = '';
       }
     }); 
-  </script>
